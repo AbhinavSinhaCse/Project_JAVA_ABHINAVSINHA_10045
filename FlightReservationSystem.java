@@ -58,3 +58,17 @@ public class FlightReservationSystem {
         f.bookSeat(new Passenger("Overflow", 106));
     }
 }
+//OUTPUT :--
+// Flight Created with 5 seats.
+// Passenger Aman booked successfully.
+// Passenger Rahul booked successfully.
+
+// Seat Status:
+// Seat 1: Aman
+// Seat 2: Rahul
+// Seat 3: Empty
+// Seat 4: Empty
+// Seat 5: Empty
+// Passenger Riya booked successfully.
+// Passenger Test1 booked successfully.
+// Passenger Test2 booked successfully.
